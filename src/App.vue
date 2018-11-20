@@ -184,6 +184,7 @@ body {
     grid-template-rows: repeat(7 , 1fr);
     grid-gap: 2px;
 
+    /* background-color: #a2a3a7; */
     border-radius: 10px;
     overflow: hidden;
     user-select: none;
