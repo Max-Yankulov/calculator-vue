@@ -1,4 +1,4 @@
-# apple-like-calculater-vue
+# apple-style-calculater-vue
 
 ## Project setup
 ```
